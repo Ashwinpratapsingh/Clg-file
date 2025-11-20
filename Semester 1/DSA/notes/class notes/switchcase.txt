@@ -1,0 +1,7 @@
+switchcase- in the switchase statement, we have multiple cases, for checking, if these cases are not satisfied by the choice, the defualt statement will be occupied for the last condition 
+
+do while, while difference
+if else, switchcase difference
+array vector difference
+
+linear search- in the linear search, we have to search the element at what position of index the element is stored so the position of element can be accessed by linear search operation

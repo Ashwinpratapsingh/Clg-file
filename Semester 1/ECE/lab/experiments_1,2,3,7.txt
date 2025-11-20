@@ -1,0 +1,65 @@
+aim- to study and identify various electronic components
+apparatus- active- jfet,mosfet,generators,battery, passive- resistors,inductors,capacitors
+theory- active components- Supply energy to a circuit; can provide power gain, devices that require an external power source, such as a battery to function. eg- jfet mosfet generators trasisitor
+passive components- Store, dissipate, or absorb energy, Do not require an external power source, eg- resistors inductor capacitor
+resistor- 2 terminal component, acts as resistance to current flow, by ohms law v=ir, i current(ampere) v voltage(volts) r resistance(ohm)
+resistance color code- dig dig multiplier tolerance
+black 0 0 1 -
+brown 1 1 10 1
+red 2 2 100 2
+orange 3 3 1k -
+yellow 4 4 10k -
+green 5 5 100k .5
+blue 6 6 1m .25
+violet 7 7 .1
+grey 8 8
+white 9 9
+gold - - .1 5
+silver- - .01 10
+observation- component valu by color code value by dmm error
+result- we have successfully studied, identified, tested all types of active passive components
+precaution- connection should be right and tight, components should be handled carefully
+
+
+
+
+
+aim- demonstration of breadboard,cro,dso,dmm and to study and practice soldering desoldering
+apparatus- breadboard,cro,dso,dmm,soldering gun,soldering flux,solder wire
+theory(cro dso)- breadboard- reusable,solderless device used to build and test electronic circuits by inserting components into a grid of holes, making temporary connection, no permament joints
+cathode ray oscilloscope- provides accurate time and amplitude measurements of voltage signals over a wide range of frequencies. the heart of cro is cathode ray tube
+digital storage oscilloscope- works by taking incoming analog signal, conditioning it with amplifiers and attenuators then using analog to digital converter(adc) to convert it into digital data, this digital data is stored in memory, processed by digital signal processor(dsp) then used to reconstruct waveform for display on screen
+dmm- used to mesure ac volt, dc volt,ac current,dc current,resistance,capacitance,continuity of signals
+theory(solder)- soldering iron uses an electrically heated tip to melt a low-melting-point metal alloy. The molten alloy flows between two heated workpieces. As it cools, the alloy solidifies, forming a strong, electrically conductive, and permanent bond between the components
+observation- voltage(peak to peak)=vpp= no. of div x volt/div
+time period= no of div x time/div
+freq= 1/tp
+result-we have successfully studied various equipments, components, liek cro dso breadboard dmm function geenrator
+precaution- dont touch hot soldering iron, dont use dmm with damaged test leads, never ground yourself while taking readings, turn power off before cutting, breaking circuit, wash hands after solder, put soldering iron back in stand
+
+
+
+
+
+aim- to study vi characteristcs of pn junction diode and zener diode
+apparatus- breadboard,dmm,variable dc motor supply(0-1v,0-10v),resistance(1kohm),diode(in4007),connecting wires
+theory- pn junction diode- device made by joining p n type semiconductors, that allows current flow only in 1 direction and blocks in other direction, because of a depletion layer, which creates a potential barrier.
+zener diode- special type of pn junction diode designed to operate safely in reverse breakdown, allowing current to flow backward when applied reverse voltage exceeds a specific stable value called zener voltage. this ability to maintain a constant voltage makes zener diode useful as voltage regulator
+obsv
+result- vi characteristic of pn junction and zener has been plotted, studied
+precaution- connections should be tight right, take reading carefully, dont touch live material, assume a scale for vi characteristics in FB RB
+
+
+
+
+
+aim- realize basic gates using universal gates
+apparatus- breadboard,nor nand gate,digital logic probe,connecting wires,logic trainer kit
+theory-nand gate is a combination of and and not, its output is compliment of and, it has min. 2 inputs, called univerasal bcoz we can form any gate through this alone
+nand as or gate truth table, nand as and tt, nand as not tt
+nor gate is a combination of or and not,its output is compliment of or, it has min. 2 inputs, called univerasal bcoz we can form any gate through this alone
+nor as or, nor as and, nor as not tt
+observation- truth tabless
+result- we successfully made basic gates by universals
+precaution- connections should be right and tight
+
